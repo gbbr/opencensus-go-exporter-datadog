@@ -25,6 +25,10 @@ countView, _ := &view.View{
 
 ```
 
+### Contributing
+
+Please make sure to read through our [contribution guidelines](https://github.com/DataDog/opencensus-go-exporter-datadog/tree/master/CONTRIBUTING.md) before opening an issue or a Pull Request.
+
 ### Requirements:
 
 - Go 1.10
